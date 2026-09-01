@@ -33,7 +33,16 @@ Here is a walkthrough of the completed Wordle app:
 
 <img src="wordle_walkthrough.gif" width="300" alt="Wordle App Walkthrough">
 
+GIF OF PHONE VIEW
 
+<img width="400" height="968" alt="Screen Recording 2026-09-01 at 12 30 18 PM (1)" src="https://github.com/user-attachments/assets/6f72f1fa-8791-4fb3-a9c2-ec5f8bb959c4" />
+
+
+
+
+
+
+FULL VIDEO 
 
 <img width="400" height="260" alt="WORDLE - PRESTON FRAZIER (1)" src="https://github.com/user-attachments/assets/73474eca-76d6-4d1c-8742-d3ccfa448216" />
 
