@@ -33,6 +33,15 @@ Here is a walkthrough of the completed Wordle app:
 
 <img src="wordle_walkthrough.gif" width="300" alt="Wordle App Walkthrough">
 
+
+
+<img width="400" height="260" alt="WORDLE - PRESTON FRAZIER (1)" src="https://github.com/user-attachments/assets/73474eca-76d6-4d1c-8742-d3ccfa448216" />
+
+
+
+
+
+
 ## How the App Works
 
 1. A random four-letter word is selected when the app starts.
